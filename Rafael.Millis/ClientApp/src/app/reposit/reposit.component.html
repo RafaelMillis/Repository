@@ -1,0 +1,11 @@
+
+<h2>Repository</h2>
+<input [(ngModel)]="textSearch"   placeholder="Enter search"  (keydown.enter)="search()" autofocus >
+<button (click)="search()" (keydown.enter)="search()">Search</button>
+
+<div class="">
+<div *ngFor="let x of searches">
+        <app-user [user]="x" ></app-user>
+</div>
+</div>
+

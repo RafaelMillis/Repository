@@ -1,0 +1,8 @@
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Model.deps.json
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Model.dll
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Models\bin\Debug\netcoreapp2.2\Rafael.Millis.Model.pdb
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Model.csproj.CoreCompileInputs.cache
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Model.AssemblyInfoInputs.cache
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Model.AssemblyInfo.cs
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Model.dll
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Models\obj\Debug\netcoreapp2.2\Rafael.Millis.Model.pdb

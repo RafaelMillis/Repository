@@ -1,0 +1,16 @@
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.BLL.deps.json
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.BLL.runtimeconfig.json
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.BLL.runtimeconfig.dev.json
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.BLL.dll
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.BLL.pdb
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.Common.dll
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.Model.dll
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.Common.pdb
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\bin\Debug\netcoreapp2.2\Rafael.Millis.Model.pdb
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\obj\Debug\netcoreapp2.2\Rafael.Millis.BLL.csprojAssemblyReference.cache
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\obj\Debug\netcoreapp2.2\Rafael.Millis.BLL.csproj.CoreCompileInputs.cache
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\obj\Debug\netcoreapp2.2\Rafael.Millis.BLL.AssemblyInfoInputs.cache
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\obj\Debug\netcoreapp2.2\Rafael.Millis.BLL.AssemblyInfo.cs
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\obj\Debug\netcoreapp2.2\Rafael.Millis.BLL.csproj.CopyComplete
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\obj\Debug\netcoreapp2.2\Rafael.Millis.BLL.dll
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.BLL\obj\Debug\netcoreapp2.2\Rafael.Millis.BLL.pdb

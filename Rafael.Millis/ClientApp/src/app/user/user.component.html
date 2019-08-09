@@ -1,0 +1,11 @@
+<div >
+    <div class="">
+        <div class="rep-image-frame">
+            <div class="rep-image-frame-name">{{ user.name  }}</div>
+            <div><img src="{{user.html_URL}}" class="thumb"></div>
+            <div [ngClass]="show" >
+                <input type="button" id="{{user.id}}" value="Bookmark" (click)="addToBookmark(user)" class="btn-bookmark" />
+            </div>
+        </div>
+    </div>
+</div>  

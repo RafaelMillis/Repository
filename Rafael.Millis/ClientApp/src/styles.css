@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+/* Repository  */
+img.thumb {
+    width: 190px;
+}
+
+div.rep-image-frame {
+    border: 1px solid black;
+    width: 191px;
+    float: left;
+}
+
+div.rep-image-frame-name {
+    margin-left:5px;
+    width:100%;
+    overflow: hidden;
+    height: 24px;
+    line-height: 24px;
+}
+
+.btn-bookmark {
+    width: 100%;
+    height: 30px;
+    font-weight: 800;
+    border-width:thin;
+}
+
+

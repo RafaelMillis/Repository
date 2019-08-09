@@ -1,0 +1,11 @@
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\bin\Debug\netcoreapp2.2\Rafael.Millis.Common.deps.json
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\bin\Debug\netcoreapp2.2\Rafael.Millis.Common.runtimeconfig.json
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\bin\Debug\netcoreapp2.2\Rafael.Millis.Common.runtimeconfig.dev.json
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\bin\Debug\netcoreapp2.2\Rafael.Millis.Common.dll
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\bin\Debug\netcoreapp2.2\Rafael.Millis.Common.pdb
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\obj\Debug\netcoreapp2.2\Rafael.Millis.Common.csprojAssemblyReference.cache
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\obj\Debug\netcoreapp2.2\Rafael.Millis.Common.csproj.CoreCompileInputs.cache
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\obj\Debug\netcoreapp2.2\Rafael.Millis.Common.AssemblyInfoInputs.cache
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\obj\Debug\netcoreapp2.2\Rafael.Millis.Common.AssemblyInfo.cs
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\obj\Debug\netcoreapp2.2\Rafael.Millis.Common.dll
+F:\tmp\Repository 2\Rafael.Millis\Rafael.Millis.Common\obj\Debug\netcoreapp2.2\Rafael.Millis.Common.pdb
